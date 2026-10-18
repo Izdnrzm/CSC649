@@ -1,18 +1,23 @@
 # Hi, I'm [Izzudinurazam Bin Mahadi]
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+Computer Science student interested in IoT, software development, and embedded systems.
 
 ## About me
-- Studying: [your programme], UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+- Studying: CDCS230, UiTM/ICEPS
+- Currently learning: CSC649 - SPECIAL TOPICS IN COMPUTER SCIENCE
+- My FYP area: Internet of Things (IoT) and Embedded Systems
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+C++
+JavaScript
+SQL
+MQTT
+ESP32
+IoT Development
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- IoT Smart Monitoring System
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+- LinkedIn:
+- Email: 2022452822@student.uitm.edu.my 
