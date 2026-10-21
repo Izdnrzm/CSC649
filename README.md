@@ -1,4 +1,6 @@
-# Hi, About This Project [IoT Based Smart Monitoring System]
+# project-README-template.md
+
+[IoT Based Smart Monitoring System]
 
 The project aims to develop an Internet of Things (IoT)-based monitoring system that collects environmental data, such as temperature and humidity, using a DHT22 sensor. The collected data is transmitted through the MQTT communication protocol, stored in an SQL database, and displayed through both a web-based monitoring dashboard and a portable M5Stack Cardputer.
 
