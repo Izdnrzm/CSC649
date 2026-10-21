@@ -1,4 +1,4 @@
-# User Stories
+# User Stories 
 
 Format: As a [type of user], I want [goal], so that [reason or benefit].
 
