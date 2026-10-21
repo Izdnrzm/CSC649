@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statement 
 
 ## Who is affected?
 The stakeholders that will be affected by the problem are maintenance technicians, system operators, engineers, and facility managers. For safe and efficient operation of equipment these users require continuous access to monitoring information. When monitoring is limited to fixed control stations, users may experience delays in accessing critical data, resulting in slower responses to abnormal conditions and potential operational inefficiencies.
