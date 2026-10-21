@@ -1,4 +1,4 @@
-# Requirements
+# Requirements 
 
 ## Functional requirements (what the system must DO)
 1. The system shall collect sensor data from connected IoT devices.
