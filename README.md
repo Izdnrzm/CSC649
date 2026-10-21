@@ -1,23 +1,5 @@
-# Hi, I'm [Izzudinurazam Bin Mahadi]
+# Hi, About This Project [IoT Based Smart Monitoring System]
 
-Computer Science student interested in IoT, software development, and embedded systems.
+The project aims to develop an Internet of Things (IoT)-based monitoring system that collects environmental data, such as temperature and humidity, using a DHT22 sensor. The collected data is transmitted through the MQTT communication protocol, stored in an SQL database, and displayed through both a web-based monitoring dashboard and a portable M5Stack Cardputer.
 
-## About me
-- Studying: CDCS230, UiTM/ICEPS
-- Currently learning: CSC649 - SPECIAL TOPICS IN COMPUTER SCIENCE
-- My FYP area: Internet of Things (IoT) and Embedded Systems
-
-## Skills and tools
-C++
-JavaScript
-SQL
-MQTT
-ESP32
-IoT Development
-
-## Projects
-- IoT Smart Monitoring System
-
-## Contact
-- LinkedIn:
-- Email: 2022452822@student.uitm.edu.my 
+The system addresses the problem of traditional monitoring systems that rely on fixed monitoring stations. By introducing a portable Human-Machine Interface (HMI), users can access real-time monitoring information while moving around the facility, reducing delays in fault detection and improving operational efficiency.
